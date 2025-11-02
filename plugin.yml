@@ -1,0 +1,6 @@
+name: BetterTabTPS
+version: 1.0
+main: io.nexiii.btt.BetterTabTPS
+api-version: 1.21
+author: Nexiii
+description: Zeigt Ping & TPS unten in der Tab-Liste an.

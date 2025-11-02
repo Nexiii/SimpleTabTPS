@@ -1,0 +1,5 @@
+# Startup message
+enabled-message: "§a✅ SimpleTabTPS has Started!"
+
+# Shutdown message
+disabled-message: "§c❌ SimpleTabTPS has Shutdown!"
