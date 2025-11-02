@@ -1,6 +1,12 @@
-name: BetterTabTPS
+name: SimpleTabTPS
 version: 1.0
-main: io.nexiii.btt.BetterTabTPS
+main: io.nexiii.stt.SimpleTabTPS
 api-version: 1.21
 author: Nexiii
-description: Zeigt Ping & TPS unten in der Tab-Liste an.
+description: Displays TPS, RAM, and player ping in the tab list.
+website: https://github.com/Nexiii/SimpleTabTPS
+
+commands:
+  stt:
+    description: Shows the GitHub source link of the SimpleTabTPS plugin.
+    usage: /stt
