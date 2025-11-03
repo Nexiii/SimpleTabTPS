@@ -8,5 +8,5 @@ website: https://github.com/Nexiii/SimpleTabTPS
 
 commands:
   stt:
-    description: Shows the GitHub source link of the SimpleTabTPS plugin.
+    description: Shows the Commands and Description of them
     usage: /stt

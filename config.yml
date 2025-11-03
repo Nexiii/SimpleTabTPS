@@ -1,3 +1,9 @@
+# Enable or disable performance warnings for server operators
+performance-warnings: true
+
+# Enable or disable the source code link in help
+sourcecode-message: true
+
 # Startup message
 enabled-message: "§a✅ SimpleTabTPS has Started!"
 
